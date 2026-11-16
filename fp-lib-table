@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Connector_FFC-FPC") (type "KiCad") (uri "C:/Users/flolu/Downloads/kicad-footprints-master/kicad-footprints-master/Connector_FFC-FPC.pretty") (options "") (descr ""))
+)
